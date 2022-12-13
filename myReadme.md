@@ -1,3 +1,8 @@
+Page used for testing:
+
+http://uitestingplayground.com
+
+
 ```bash
 npm init -y
 npm install --save-dev typescript
