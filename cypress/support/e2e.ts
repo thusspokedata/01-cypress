@@ -17,5 +17,6 @@
 import './commands';
 import './exceptions';
 import "cypress-real-events/support";
+require('cy-verify-downloads').addCustomCommand();
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
